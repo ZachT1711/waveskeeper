@@ -57,7 +57,7 @@
     "react-addons-transition-group": "^15.6.2",
     "react-dom": "^16.4.2",
     "react-i18next": "^7.10.1",
-    "react-redux": "^5.0.7",
+    "react-redux": "^9.0.0",
     "readable-stream": "^2.3.6",
     "redux": "^4.0.0",
     "url": "^0.11.0",
